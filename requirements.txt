@@ -1,5 +1,5 @@
-numpy==1.18.5
+﻿numpy==1.18.5
 PyAutoGUI==0.9.50
-opencv-python==4.2.0.32
+opencv-python==4.2.0.34
 pywin32==228
 pywin32-ctypes==0.2.0
