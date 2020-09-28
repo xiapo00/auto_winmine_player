@@ -1,5 +1,6 @@
 # Auto Winmine Player
 Designed for the classical version of the mine-sweeping game.
+
 ![](sight.png)
 ``` bash
 cd auto_winmine_player
